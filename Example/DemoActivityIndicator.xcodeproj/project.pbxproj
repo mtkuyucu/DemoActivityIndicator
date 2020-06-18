@@ -212,7 +212,7 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = BA65Q6C3AQ;
+						DevelopmentTeam = 244Y868Y2X;
 						LastSwiftMigration = 1010;
 					};
 					607FACE41AFB9204008FA782 = {
@@ -228,6 +228,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -487,12 +488,12 @@
 			baseConfigurationReference = 36A26D4E27F025916E1619ED /* Pods-DemoActivityIndicator_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BA65Q6C3AQ;
+				DEVELOPMENT_TEAM = 244Y868Y2X;
 				INFOPLIST_FILE = DemoActivityIndicator/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = no.det.DemoActivityIndicator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kycapps.DemoActivityIndicator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -503,12 +504,12 @@
 			baseConfigurationReference = A3FE1B79AD8B48495DCCD64F /* Pods-DemoActivityIndicator_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = BA65Q6C3AQ;
+				DEVELOPMENT_TEAM = 244Y868Y2X;
 				INFOPLIST_FILE = DemoActivityIndicator/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = no.det.DemoActivityIndicator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kycapps.DemoActivityIndicator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
